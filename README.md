@@ -1,5 +1,7 @@
----
-Proyecto Río Claro - AI-901
+# Proyecto Río Claro
+
+## AI-901 - Microsoft Azure AI Fundamentals
+
 Descripción
 Proyecto desarrollado como solución para el caso de negocio Río Claro.
 
