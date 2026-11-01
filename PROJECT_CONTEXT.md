@@ -1,7 +1,7 @@
 Proyecto Río Claro - Contexto Oficial
 # Proyecto Río Claro — contexto de implementación
 
-## Objetivo escolar
+## Objetivo
 
 Demostrar dos capacidades con una aplicación Streamlit:
 
