@@ -1,0 +1,31 @@
+[
+  {
+    "order_id": "RC-DEMO-1001",
+    "customer_name": "Ana López",
+    "status": "En preparación",
+    "items": [
+      "Cloro Doméstico 1 L",
+      "Jabón Líquido para Manos"
+    ],
+    "updated_at": "2026-10-28"
+  },
+  {
+    "order_id": "RC-DEMO-1002",
+    "customer_name": "Carlos Méndez",
+    "status": "En tránsito",
+    "items": [
+      "Detergente Líquido Multiusos",
+      "Desinfectante Multiusos"
+    ],
+    "updated_at": "2026-10-29"
+  },
+  {
+    "order_id": "RC-DEMO-1003",
+    "customer_name": "María Fernanda Ruiz",
+    "status": "Entregado",
+    "items": [
+      "Limpiador de Baños"
+    ],
+    "updated_at": "2026-10-30"
+  }
+]

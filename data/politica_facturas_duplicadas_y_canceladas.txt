@@ -1,0 +1,188 @@
+POLÍTICA DE GESTIÓN DE FACTURAS DUPLICADAS Y CANCELADAS
+
+EMPRESA: RÍO CLARO
+
+Versión: 1.0
+Fecha de actualización: 31/10/2026
+
+====================================================
+OBJETIVO
+====================================================
+
+Establecer los criterios para identificar, controlar y reportar facturas duplicadas y facturas canceladas dentro de los sistemas administrativos de Río Claro.
+
+====================================================
+DEFINICIONES
+====================================================
+
+Factura Vigente
+
+Documento fiscal válido que no presenta evidencia de duplicidad o cancelación y que puede ser considerado para fines operativos, fiscales y administrativos.
+
+----------------------------------------------------
+
+Factura Duplicada
+
+Factura que corresponde al mismo comprobante fiscal ya registrado previamente en el sistema.
+
+Se considera duplicada cuando se presenta cualquiera de los siguientes escenarios:
+
+- Mismo UUID o Folio Fiscal.
+- Mismo proveedor.
+- Misma fecha de emisión.
+- Mismo importe total.
+- Carga repetida del mismo archivo.
+
+----------------------------------------------------
+
+Factura Cancelada
+
+Factura que ha sido cancelada por el emisor o que cuenta con evidencia formal de cancelación.
+
+====================================================
+REGLAS DE NEGOCIO
+====================================================
+
+REGLA 1
+
+Las facturas vigentes deberán incluirse en todos los reportes operativos, financieros y administrativos.
+
+----------------------------------------------------
+
+REGLA 2
+
+Cuando se detecte una factura duplicada:
+
+- Se conservará el primer registro válido.
+- Los registros duplicados posteriores serán marcados como "Duplicados".
+- Los registros duplicados no participarán en cálculos financieros ni estadísticos.
+
+----------------------------------------------------
+
+REGLA 3
+
+Cuando una factura sea cancelada:
+
+- El registro permanecerá almacenado para fines de auditoría.
+- Se marcará con estatus "Cancelada".
+- No será considerada en reportes operativos ni financieros.
+
+----------------------------------------------------
+
+REGLA 4
+
+Las facturas duplicadas y canceladas deberán permanecer disponibles para consulta histórica y auditoría.
+
+====================================================
+TRATAMIENTO EN REPORTES
+====================================================
+
+FACTURAS VIGENTES
+
+Incluir en:
+
+- Reportes de compras.
+- Reportes de gastos.
+- Reportes fiscales.
+- Indicadores financieros.
+- Análisis operativos.
+
+----------------------------------------------------
+
+FACTURAS DUPLICADAS
+
+Excluir de:
+
+- Compras.
+- Gastos.
+- Indicadores financieros.
+- Reportes fiscales.
+
+Conservar para auditoría.
+
+----------------------------------------------------
+
+FACTURAS CANCELADAS
+
+Excluir de:
+
+- Compras.
+- Gastos.
+- Impuestos.
+- Indicadores financieros.
+- Reportes gerenciales.
+
+Conservar para auditoría.
+
+====================================================
+CÁLCULO OFICIAL
+====================================================
+
+Total de Facturas Válidas
+
+=
+
+Total de Facturas Vigentes
+
+-
+
+Facturas Duplicadas
+
+-
+
+Facturas Canceladas
+
+====================================================
+EJEMPLO DE APLICACIÓN
+====================================================
+
+Facturas Registradas:
+
+FAC-001
+FAC-002
+FAC-003
+FAC-003 (Duplicada)
+FAC-004 (Cancelada)
+
+Resultado para Reportes:
+
+Facturas válidas:
+
+FAC-001
+FAC-002
+FAC-003
+
+Total de facturas válidas: 3
+
+Facturas excluidas:
+
+FAC-003 (Duplicada)
+FAC-004 (Cancelada)
+
+====================================================
+RESPONSABILIDADES
+====================================================
+
+Usuarios Operativos
+
+- Validar información capturada.
+- Revisar alertas de duplicidad.
+
+Responsables Administrativos
+
+- Autorizar correcciones.
+- Validar registros cancelados.
+
+Sistema de IA
+
+- Detectar posibles duplicidades.
+- Generar alertas preventivas.
+- Sugerir revisión humana cuando exista incertidumbre.
+
+====================================================
+CONSIDERACIONES FINALES
+====================================================
+
+Por defecto, todos los reportes del sistema Río Claro deberán mostrar únicamente facturas vigentes.
+
+Las facturas duplicadas y canceladas solo deberán aparecer en reportes de auditoría o consultas históricas especializadas.

@@ -1,0 +1,171 @@
+CATÁLOGO OFICIAL DE PRODUCTOS
+
+EMPRESA: RÍO CLARO
+
+====================================================
+INFORMACIÓN GENERAL
+====================================================
+
+Río Claro es una empresa especializada en productos de limpieza, sanitización e higiene para clientes residenciales, comerciales e institucionales.
+
+Sectores atendidos:
+
+- Hogares
+- Oficinas
+- Escuelas
+- Hospitales
+- Hoteles
+- Restaurantes
+- Industrias
+- Empresas de limpieza
+
+====================================================
+LÍNEA DE CLOROS
+====================================================
+
+Producto: Cloro Doméstico 1 L
+Código: CL-001
+Presentación: Botella 1 litro
+Precio: $18.00 MXN
+
+Descripción:
+Solución clorada para limpieza y desinfección diaria.
+
+Usos:
+- Pisos
+- Cocinas
+- Baños
+- Áreas comunes
+
+----------------------------------------------------
+
+Producto: Cloro Institucional 5 L
+Código: CL-005
+Presentación: Garrafa 5 litros
+Precio: $75.00 MXN
+
+Descripción:
+Desinfectante de alta concentración para uso institucional.
+
+Usos:
+- Escuelas
+- Hoteles
+- Hospitales
+- Oficinas
+
+====================================================
+LÍNEA DE DETERGENTES
+====================================================
+
+Producto: Detergente Líquido Multiusos
+Código: DET-001
+Presentación: 1 litro
+Precio: $42.00 MXN
+
+Descripción:
+Detergente concentrado para limpieza diaria.
+
+----------------------------------------------------
+
+Producto: Detergente Industrial Concentrado
+Código: DET-002
+Presentación: 5 litros
+Precio: $155.00 MXN
+
+Descripción:
+Detergente de alto rendimiento para uso comercial.
+
+====================================================
+LÍNEA DE DESINFECTANTES
+====================================================
+
+Producto: Desinfectante Multiusos
+Código: DES-001
+Presentación: 1 litro
+Precio: $55.00 MXN
+
+Aromas:
+- Lavanda
+- Cítricos
+- Frescura Natural
+
+----------------------------------------------------
+
+Producto: Sanitizante Profesional
+Código: DES-002
+Presentación: 5 litros
+Precio: $170.00 MXN
+
+Descripción:
+Desinfectante para superficies de contacto frecuente.
+
+====================================================
+LÍNEA DE BAÑOS
+====================================================
+
+Producto: Limpiador de Baños
+Código: BAN-001
+Presentación: 750 ml
+Precio: $49.00 MXN
+
+Descripción:
+Remueve sarro y residuos de jabón.
+
+----------------------------------------------------
+
+Producto: Gel Desincrustante
+Código: BAN-002
+Presentación: 1 litro
+Precio: $65.00 MXN
+
+Descripción:
+Limpieza profunda de sanitarios y porcelana.
+
+====================================================
+LÍNEA DE COCINA
+====================================================
+
+Producto: Desengrasante Profesional
+Código: COC-001
+Presentación: 1 litro
+Precio: $58.00 MXN
+
+Descripción:
+Elimina grasa pesada en cocinas.
+
+----------------------------------------------------
+
+Producto: Desengrasante Industrial
+Código: COC-002
+Presentación: 5 litros
+Precio: $210.00 MXN
+
+Descripción:
+Uso profesional para restaurantes.
+
+====================================================
+LÍNEA DE HIGIENE PERSONAL
+====================================================
+
+Producto: Jabón Líquido para Manos
+Código: HIG-001
+Presentación: 500 ml
+Precio: $35.00 MXN
+
+----------------------------------------------------
+
+Producto: Jabón Antibacterial
+Código: HIG-002
+Presentación: 1 litro
+Precio: $58.00 MXN
+
+====================================================
+LÍNEA DE PISOS
+====================================================
+
+Producto: Limpiador para Pisos Lavanda
+Código: PIS-001
+Presentación: 1 litro
+Precio: $42.00 MXN
+
+---------

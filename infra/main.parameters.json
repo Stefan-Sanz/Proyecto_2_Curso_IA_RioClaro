@@ -1,0 +1,18 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "location": {
+      "value": "westus"
+    },
+    "environmentName": {
+      "value": "rio-claro-demo"
+    },
+    "planSkuName": {
+      "value": "B1"
+    },
+    "logAnalyticsWorkspaceName": {
+      "value": "cs-rg-rio-claro-ai901-resource-logs"
+    }
+  }
+}

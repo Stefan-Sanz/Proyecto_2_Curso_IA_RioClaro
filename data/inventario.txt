@@ -1,0 +1,255 @@
+INVENTARIO POR SUCURSAL
+
+Fecha de actualización:
+31/10/2026
+
+====================================================
+SUCURSAL GUADALAJARA (MATRIZ)
+====================================================
+
+Cloro Doméstico 1 L: 180 unidades
+Cloro Institucional 5 L: 65 unidades
+
+Detergente Líquido Multiusos: 100 unidades
+Detergente Industrial Concentrado: 45 unidades
+
+Desinfectante Multiusos: 90 unidades
+Sanitizante Profesional: 35 unidades
+
+Limpiador de Baños: 70 unidades
+Gel Desincrustante: 60 unidades
+
+Desengrasante Profesional: 55 unidades
+Desengrasante Industrial: 25 unidades
+
+Jabón Líquido para Manos: 110 unidades
+Jabón Antibacterial: 70 unidades
+
+Limpiador para Pisos Lavanda: 80 unidades
+Limpiador para Pisos Cítricos: 70 unidades
+
+Limpiador de Cristales: 60 unidades
+Limpiavidrios Profesional: 20 unidades
+
+Suavizante Floral: 45 unidades
+Blanqueador Textil: 30 unidades
+
+Gel Antibacterial: 140 unidades
+Gel Antibacterial Institucional: 30 unidades
+
+Sanitizante para Superficies Alimentarias: 40 unidades
+Limpiador para Acero Inoxidable: 25 unidades
+
+Desinfectante Industrial Concentrado: 15 unidades
+Limpiador Industrial Multiusos: 10 unidades
+
+Aromatizante Lavanda: 40 unidades
+Aromatizante Cítrico: 35 unidades
+Difusor Ambiental Profesional: 15 unidades
+
+Shampoo para Automóvil: 30 unidades
+Desengrasante para Motores: 20 unidades
+
+Sanitizante Hospitalario: 20 unidades
+Limpiador Hospitalario Neutro: 20 unidades
+
+Limpiador Ecológico Multiusos: 45 unidades
+Desinfectante Ecológico: 40 unidades
+
+====================================================
+SUCURSAL ZAPOPAN
+====================================================
+
+Cloro Doméstico 1 L: 110 unidades
+Cloro Institucional 5 L: 30 unidades
+
+Detergente Líquido Multiusos: 65 unidades
+Detergente Industrial Concentrado: 20 unidades
+
+Desinfectante Multiusos: 55 unidades
+Sanitizante Profesional: 15 unidades
+
+Limpiador de Baños: 45 unidades
+Gel Desincrustante: 35 unidades
+
+Desengrasante Profesional: 35 unidades
+Desengrasante Industrial: 10 unidades
+
+Jabón Líquido para Manos: 75 unidades
+Jabón Antibacterial: 40 unidades
+
+Limpiador para Pisos Lavanda: 45 unidades
+Limpiador para Pisos Cítricos: 40 unidades
+
+Limpiador de Cristales: 35 unidades
+Limpiavidrios Profesional: 10 unidades
+
+Suavizante Floral: 25 unidades
+Blanqueador Textil: 15 unidades
+
+Gel Antibacterial: 95 unidades
+Gel Antibacterial Institucional: 15 unidades
+
+Sanitizante para Superficies Alimentarias: 20 unidades
+Limpiador para Acero Inoxidable: 10 unidades
+
+Aromatizante Lavanda: 25 unidades
+Aromatizante Cítrico: 25 unidades
+
+Shampoo para Automóvil: 20 unidades
+Desengrasante para Motores: 15 unidades
+
+Limpiador Ecológico Multiusos: 25 unidades
+Desinfectante Ecológico: 20 unidades
+
+====================================================
+SUCURSAL LEÓN
+====================================================
+
+Cloro Doméstico 1 L: 90 unidades
+Cloro Institucional 5 L: 20 unidades
+
+Detergente Líquido Multiusos: 50 unidades
+Detergente Industrial Concentrado: 15 unidades
+
+Desinfectante Multiusos: 60 unidades
+Sanitizante Profesional: 25 unidades
+
+Limpiador de Baños: 30 unidades
+Gel Desincrustante: 25 unidades
+
+Desengrasante Profesional: 25 unidades
+Desengrasante Industrial: 10 unidades
+
+Jabón Líquido para Manos: 50 unidades
+Jabón Antibacterial: 35 unidades
+
+Limpiador para Pisos Lavanda: 40 unidades
+Limpiador para Pisos Cítricos: 35 unidades
+
+Limpiador de Cristales: 30 unidades
+
+Gel Antibacterial: 80 unidades
+
+Sanitizante para Superficies Alimentarias: 15 unidades
+
+Aromatizante Lavanda: 30 unidades
+Aromatizante Cítrico: 30 unidades
+Difusor Ambiental Profesional: 10 unidades
+
+Shampoo para Automóvil: 15 unidades
+
+Sanitizante Hospitalario: 5 unidades
+
+====================================================
+SUCURSAL QUERÉTARO
+====================================================
+
+Cloro Doméstico 1 L: 70 unidades
+Cloro Institucional 5 L: 20 unidades
+
+Detergente Líquido Multiusos: 45 unidades
+Detergente Industrial Concentrado: 25 unidades
+
+Desinfectante Multiusos: 40 unidades
+Sanitizante Profesional: 20 unidades
+
+Limpiador de Baños: 35 unidades
+Gel Desincrustante: 30 unidades
+
+Desengrasante Profesional: 25 unidades
+Desengrasante Industrial: 20 unidades
+
+Jabón Líquido para Manos: 55 unidades
+Jabón Antibacterial: 35 unidades
+
+Limpiador para Pisos Lavanda: 45 unidades
+Limpiador para Pisos Cítricos: 40 unidades
+
+Limpiavidrios Profesional: 30 unidades
+
+Gel Antibacterial: 65 unidades
+Gel Antibacterial Institucional: 25 unidades
+
+Sanitizante para Superficies Alimentarias: 30 unidades
+Limpiador para Acero Inoxidable: 25 unidades
+
+Desinfectante Industrial Concentrado: 25 unidades
+Limpiador Industrial Multiusos: 25 unidades
+
+Difusor Ambiental Profesional: 20 unidades
+
+Desengrasante para Motores: 20 unidades
+
+Sanitizante Hospitalario: 25 unidades
+Limpiador Hospitalario Neutro: 25 unidades
+
+Limpiador Ecológico Multiusos: 25 unidades
+Desinfectante Ecológico: 20 unidades
+
+====================================================
+SUCURSAL AGUASCALIENTES
+====================================================
+
+Cloro Doméstico 1 L: 50 unidades
+Cloro Institucional 5 L: 15 unidades
+
+Detergente Líquido Multiusos: 40 unidades
+Detergente Industrial Concentrado: 15 unidades
+
+Desinfectante Multiusos: 30 unidades
+Sanitizante Profesional: 10 unidades
+
+Limpiador de Baños: 30 unidades
+Gel Desincrustante: 30 unidades
+
+Desengrasante Profesional: 20 unidades
+
+Jabón Líquido para Manos: 50 unidades
+Jabón Antibacterial: 40 unidades
+
+Limpiador para Pisos Lavanda: 40 unidades
+Limpiador para Pisos Cítricos: 35 unidades
+
+Limpiador de Cristales: 25 unidades
+
+Gel Antibacterial: 70 unidades
+Gel Antibacterial Institucional: 10 unidades
+
+Aromatizante Lavanda: 15 unidades
+Aromatizante Cítrico: 15 unidades
+
+Shampoo para Automóvil: 10 unidades
+
+Limpiador Ecológico Multiusos: 25 unidades
+Desinfectante Ecológico: 20 unidades
+
+====================================================
+PRODUCTOS EXCLUSIVOS
+====================================================
+
+Difusor Ambiental Profesional:
+- Guadalajara
+- León
+- Querétaro
+
+Desinfectante Industrial Concentrado:
+- Guadalajara
+- Querétaro
+
+Limpiador Industrial Multiusos:
+- Guadalajara
+- Querétaro
+
+====================================================
+PRODUCTOS HOSPITALARIOS
+====================================================
+
+Sanitizante Hospitalario:
+- Guadalajara: 20 unidades
+- León: 5 unidades
+- Querétaro: 25 unidades
+
+Limpiador Hospitalario Neutro:
+- Guadalajara: 20 unidades
+- Querétaro: 25 unidades

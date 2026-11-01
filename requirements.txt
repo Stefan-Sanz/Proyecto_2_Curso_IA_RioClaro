@@ -1,0 +1,7 @@
+streamlit[auth]==1.66.1
+azure-ai-documentintelligence==1.0.2
+azure-ai-projects==2.9.0
+azure-identity==1.26.0
+azure-cognitiveservices-speech==1.43.0
+python-dotenv==1.2.4
+openai==3.37.0
